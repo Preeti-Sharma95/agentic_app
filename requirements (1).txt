@@ -1,11 +1,12 @@
-streamlit>=1.27.2
-pandas>=2.0.0
-fpdf>=1.7.2
-plotly>=5.0.0
-
-# Optional AI features (comment out if not needed)
-langchain>=0.1.6
-langchain-groq>=0.0.4
-openai>=1.0.0
+streamlit==1.45.0
+pandas==2.2.3
+numpy==2.2.5
+plotly==5.21.0
+requests==2.32.3
 fpdf==1.7.2
-
+langchain==0.1.17
+langchain-groq==0.0.3
+openpyxl==3.1.2
+typing-extensions==4.13.2
+python-dateutil==2.9.0.post0
+sqlite3  # comes with Python, usually no need to install
