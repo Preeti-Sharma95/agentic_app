@@ -1,12 +1,9 @@
 streamlit==1.45.0
-pandas==2.2.3
-numpy==2.2.5
-plotly==5.21.0
-requests==2.32.3
-fpdf==1.7.2
-langchain==0.1.17
-langchain-groq==0.0.3
-openpyxl==3.1.2
-typing-extensions==4.13.2
-python-dateutil==2.9.0.post0
-sqlite3  # comes with Python, usually no need to install
+pandas
+numpy
+plotly
+requests
+fpdf
+openpyxl
+langchain
+langchain-groq
